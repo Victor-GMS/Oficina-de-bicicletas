@@ -1,0 +1,29 @@
+.ordem {
+  border: 1px solid #999;
+  border-left: 6px solid orange;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.concluida {
+  background-color: #e3f1e3;
+  border-left-color: green;
+}
+
+.concluida p {
+  text-decoration: line-through;
+}
+
+.selo {
+  background-color: green;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.ordem button {
+  margin-right: 8px;
+}

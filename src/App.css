@@ -1,0 +1,31 @@
+.app {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.resumo {
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.resumo p {
+  margin: 4px 0;
+}
+
+form {
+  margin: 20px 0;
+}
+
+form input {
+  margin-right: 10px;
+}
+
+.erro {
+  color: red;
+}
+
+ul {
+  padding: 0;
+}
